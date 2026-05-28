@@ -1,1 +1,10 @@
 venv 
+
+# Node dependencies
+node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
